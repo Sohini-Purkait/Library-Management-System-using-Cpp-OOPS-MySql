@@ -53,6 +53,7 @@ The project utilizes a relational database named `LibraryDB` with two primary ta
 Execute the following SQL commands in your MySQL Command Line or Workbench:
 
 ```sql
+
 CREATE DATABASE LibraryDB;
 USE LibraryDB;
 
@@ -76,6 +77,13 @@ To run the project, you must link the MySQL libraries in your IDE:
 3. Compile and Run the `main.cpp` file.
 
 ---
+## 📸 Screenshots
+
+<p align="center">
+  <img src="Image1.png" alt="Main Menu Screenshot" width="500"/>
+  <img src="Image2.png" alt="Db Schema Screenshot" width="500"/>
+  <img src="Image3.png" alt="Db Schema Screenshot" width="500"/>
+</p>
 
 ## 🔮 Future Enhancements
 
