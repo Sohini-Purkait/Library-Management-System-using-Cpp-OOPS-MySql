@@ -80,9 +80,9 @@ To run the project, you must link the MySQL libraries in your IDE:
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="Image1.png" alt="Main Menu Screenshot" width="500"/>
-  <img src="Image2.png" alt="Db Schema Screenshot" width="500"/>
-  <img src="Image3.png" alt="Db Schema Screenshot" width="500"/>
+  <img src="Image1.jpeg" alt="" width="500"/>
+  <img src="Image2.jpeg" alt="" width="500"/>
+  <img src="Image3.jpeg" alt="" width="500"/>
 </p>
 
 ## 🔮 Future Enhancements
